@@ -10,4 +10,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=osman-akdag&color=blue)
 
 ## Contact with Me 💬
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="background-color:DodgerBlue;">](https://www.instagram.com/osman.akdag/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' background-color:'DodgerBlue'>](https://www.instagram.com/osman.akdag/)
