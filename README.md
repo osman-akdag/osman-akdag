@@ -9,3 +9,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osman-akdag&count_private=true&theme=tokyonight)
 
+![Profile views](https://komarev.com/ghpvc/?username=osman-akdag&color=blue)
