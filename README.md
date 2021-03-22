@@ -7,5 +7,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osman-akdag&count_private=true&theme=tokyonight)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=osman-akdag&include_all_commits=true&show_icons=true&theme=tokyonight)
-
-
